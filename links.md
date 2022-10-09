@@ -66,6 +66,7 @@ Notes on Programming as Theory-Building Essay
 https://blog.ceejbot.com/posts/programming-as-theory-building/
 
 ## 2022-10-03
+
 How I’m a Productive Programmer With a Memory of a Fruit Fly
 
 https://hynek.me/articles/productive-fruit-fly-programmer/
@@ -98,3 +99,42 @@ https://devinterrupted.com/podcast/atlassians-eye-opening-state-of-teams-report/
 Storing Pandas dataframes efficiently in Python
 
 https://itnext.io/storing-pandas-data-frames-efficiently-in-python-cff669953485
+
+## 2022-10-10
+
+The Algorithms
+
+https://the-algorithms.com/
+
+Software engineering practices
+
+https://simonwillison.net/2022/Oct/1/software-engineering-practices
+
+RecSys 2022 - Recap, Favorite Papers, and Lessons
+
+https://eugeneyan.com/writing/recsys2022/
+___
+
+Using a Human-in-the-Loop to Overcome the Cold Start Problem in Menu Item Tagging
+
+https://doordash.engineering/2020/08/28/overcome-the-cold-start-problem-in-menu-item-tagging/
+
+How we do data science at Bolt
+
+https://medium.com/bolt-labs/how-we-do-data-science-at-bolt-5cf861ae2578
+
+Identifying Suspicious Businesses, Reddit Analysis and Tracking Russian Propaganda: Here are the Results of Bellingcat’s First Ever Hackathon
+
+https://www.bellingcat.com/resources/2022/09/19/identifying-suspicious-businesses-reddit-analysis-and-tracking-russian-propaganda-here-are-the-results-of-bellingcats-first-ever-hackathon/
+
+Metaprogramming in Python
+
+https://developer.ibm.com/tutorials/ba-metaprogramming-python/
+
+Functional programming is finally going mainstream
+
+https://github.com/readme/featured/functional-programming
+
+Infrastructure-as-Code: Easy Cloud Deployment In Python
+
+https://www.youtube.com/watch?v=YGcd0lAQCl8
