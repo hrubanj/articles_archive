@@ -138,3 +138,43 @@ https://github.com/readme/featured/functional-programming
 Infrastructure-as-Code: Easy Cloud Deployment In Python
 
 https://www.youtube.com/watch?v=YGcd0lAQCl8
+
+## 2022-10-17
+
+"Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022)
+
+https://www.youtube.com/watch?v=8Ab3ArE8W3s
+
+Big O Cheat Sheet – Time Complexity Chart
+
+https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/
+
+Discovering novel algorithms with AlphaTensor
+
+https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor
+
+Refs and the Reflog
+
+https://www.atlassian.com/git/tutorials/refs-and-the-reflog
+
+___
+
+How Open Source is eating AI
+
+https://lspace.swyx.io/p/open-source-ai
+
+Safety in Non-Memory-Safe Languages
+
+https://verdagon.dev/blog/when-to-use-memory-safe-part-1
+
+The history of Amazon’s forecasting algorithm
+
+https://www.amazon.science/latest-news/the-history-of-amazons-forecasting-algorithm
+
+The Definitive Guide to Graph Problems
+
+https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/
+
+The Advanced Git Guide: Git Stash, Reset, Rebase, and More
+
+https://www.toptal.com/git/the-advanced-git-guide
