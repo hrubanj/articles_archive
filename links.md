@@ -178,3 +178,72 @@ https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/
 The Advanced Git Guide: Git Stash, Reset, Rebase, and More
 
 https://www.toptal.com/git/the-advanced-git-guide
+
+## 2022-10-24
+Web3 Intro for Developers • Roy Osherove • GOTO 2022
+
+https://www.youtube.com/watch?v=aIgyH-fYNe8&list=WL&index=4
+
+"People Get Microservices Wrong All The Time!" | Dave, Simon Brown & Hannes Lowette On Microservices
+
+https://www.youtube.com/watch?v=Hybt9NdmsBw
+
+Managing Machine Learning Projects // Simon Thompson // MLOps Coffee Sessions #128
+
+https://www.youtube.com/watch?v=FlFqElO6LWk
+
+Faster feedback loops make for faster developer velocity (Ep. 498)
+
+https://stackoverflow.blog/2022/10/19/faster-feedback-loops-make-for-faster-developer-velocity/
+
+Joe Rogan interviews Steve Jobs
+
+https://podcast.ai/
+
+**Understanding DeepMind and Strassen algorithms**
+
+https://towardsdatascience.com/understanding-deepmind-and-strassen-algorithms-9bdb3d8b6ea6
+
+Part 2: Scheduling Notebooks at Netflix
+
+https://netflixtechblog.com/scheduling-notebooks-348e6c14cfd6
+
+To MLOps, or not to MLOps? That is the question — the platform is the answer
+
+https://medium.com/@lukicov/to-mlops-or-not-to-mlops-that-is-the-question-the-platform-is-the-answer-e148a8286b90
+
+Why MTTR should be a ‘business’ metric
+
+https://blog.last9.io/why-mttr-should-be-a-business-metric/
+
+The Future of Ops Is Platform Engineering
+
+https://www.honeycomb.io/blog/future-ops-platform-engineering
+
+RecSysOps: Best Practices for Operating a Large-Scale Recommender System
+
+https://netflixtechblog.medium.com/recsysops-best-practices-for-operating-a-large-scale-recommender-system-95bbe195a841
+
+How the Guardian approaches quote extraction with NLP
+
+https://explosion.ai/blog/guardian
+
+Prodigy
+
+https://prodi.gy/
+
+**Generating Chess Puzzles with Genetic Algorithms**
+
+https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms
+
+Introduction to streaming for data scientists
+
+https://huyenchip.com/2022/08/03/stream-processing-for-data-scientists.html?s=09&utm_source=pocket_mylist
+
+13 ways to scrape any public data from any website
+
+https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9
+
+Writing Robust Tests for Data & Machine Learning Pipelines
+
+https://eugeneyan.com/writing/testing-pipelines/
