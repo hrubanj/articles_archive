@@ -247,3 +247,52 @@ https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9
 Writing Robust Tests for Data & Machine Learning Pipelines
 
 https://eugeneyan.com/writing/testing-pipelines/
+
+## 2022-10-31
+A Deep Dive Into Date And Time In Python
+
+https://www.youtube.com/watch?v=TFa38ONq5PY
+
+Why we're leaving the cloud
+
+https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0
+
+ReWork Podcast: Leaving the Cloud
+
+https://www.rework.fm/leaving-the-cloud/
+
+Building the Future of TensorFlow
+
+https://blog.tensorflow.org/2022/10/building-the-future-of-tensorflow.html
+
+Generating memes and infographics with Pillow
+
+https://rk.edu.pl/en/generating-memes-and-infographics-with-pillow/
+
+**The Guardian Open Platform**
+
+https://open-platform.theguardian.com/
+
+How We Use Terraform At Slack
+
+https://slack.engineering/how-we-use-terraform-at-slack/
+
+What is CORS?
+
+https://simplelocalize.io/blog/posts/what-is-cors/
+
+How Deezer built an emotional AI
+
+https://deezer.io/how-deezer-built-the-first-emotional-ai-a2ad1ffc7294
+
+From zero to 10 million lines of Kotlin
+
+https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/
+
+How to maintain engineering velocity as you scale
+
+https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-scale/
+
+Timsort--the fastest sorting algorithm you’ve never heard of
+
+https://skerritt.blog/timsort/
