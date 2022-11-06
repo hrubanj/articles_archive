@@ -296,3 +296,36 @@ https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-sca
 Timsort--the fastest sorting algorithm you’ve never heard of
 
 https://skerritt.blog/timsort/
+
+# 2022-10-07
+Why Pull Requests Are a Bad Idea • Dave Farley • GOTO 2022
+
+https://www.youtube.com/watch?v=UQrlEXU6RM8
+
+Python 3.11: Cool New Features for You to Try
+
+https://realpython.com/python311-new-features/
+
+Python vs. JavaScript: Is It a Fair Comparison?
+
+https://www.stxnext.com/blog/python-vs-javascript-comparison/
+
+Simple, sane, and sensible Logging in Python
+
+https://medium.com/@petefison/logging-in-python-doesnt-get-simpler-than-this-50a7f24af1f4
+
+12 Factor App Revisited
+
+https://architecturenotes.co/12-factor-app-revisited/
+
+Stable Diffusion in Code (AI Image Generation) - Computerphile
+
+https://www.youtube.com/watch?v=-lz30by8-sU
+
+But how does bitcoin actually work?
+
+https://www.youtube.com/watch?v=bBC-nXj3Ng4
+
+Different Types Of "Data Engineering" Teams
+
+https://seattledataguy.substack.com/p/different-types-of-data-engineering
