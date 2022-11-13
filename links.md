@@ -297,7 +297,7 @@ Timsort--the fastest sorting algorithm you’ve never heard of
 
 https://skerritt.blog/timsort/
 
-# 2022-10-07
+# 2022-11-07
 Why Pull Requests Are a Bad Idea • Dave Farley • GOTO 2022
 
 https://www.youtube.com/watch?v=UQrlEXU6RM8
@@ -329,3 +329,56 @@ https://www.youtube.com/watch?v=bBC-nXj3Ng4
 Different Types Of "Data Engineering" Teams
 
 https://seattledataguy.substack.com/p/different-types-of-data-engineering
+
+# 2022-11-14
+What Goes Around Comes Around
+
+http://mitpress2.mit.edu/books/chapters/0262693143chapm1.pdf
+
+An Introduction to Poisson Flow Generative Models
+
+https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/
+
+Replit’s Ghostwriter AI can explain programs to you—or help write them
+
+https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/
+
+How to communicate effectively as a developer
+
+https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/
+
+Shell Script Best Practices
+
+https://sharats.me/posts/shell-script-best-practices/
+
+Emerging Architectures for Modern Data Infrastructure
+
+https://future.com/emerging-architectures-modern-data-infrastructure
+
+Web Automation: Don't Use Selenium, Use Playwright
+
+https://new.pythonforengineers.com/blog/web-automation-dont-use-selenium-use-playwright/
+
+Scientists Increasingly Can’t Explain How AI Works
+
+https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works
+
+Reducing BigQuery Costs: How We Fixed A $1 Million Query
+
+https://shopify.engineering/reducing-bigquery-costs
+
+Continuous Delivery at HubSpot: a Homegrown Platform that Delivers Features, Fast
+
+https://product.hubspot.com/blog/continuous-delivery
+
+Shipping your nlp sentiment classification model with confidence
+
+https://mlops.community/shipping-your-nlp-sentiment-classification-model-with-confidence/
+
+OpenAI Opens GPT-3 for Everyone
+
+https://towardsdatascience.com/openai-opens-gpt-3-for-everyone-fb7fed309f6
+
+How to Support A/B Testing in Your Python Code
+
+https://www.youtube.com/watch?v=115SeMub-P0
