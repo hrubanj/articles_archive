@@ -382,3 +382,12 @@ https://towardsdatascience.com/openai-opens-gpt-3-for-everyone-fb7fed309f6
 How to Support A/B Testing in Your Python Code
 
 https://www.youtube.com/watch?v=115SeMub-P0
+
+# 2022-11-21
+Write Chrome Extensions in Python
+
+https://medium.com/@petefison/write-chrome-extensions-in-python-6c6b0e2e1573
+
+A Python 3.11 “gotcha”
+
+https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/
