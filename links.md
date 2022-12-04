@@ -391,3 +391,31 @@ https://medium.com/@petefison/write-chrome-extensions-in-python-6c6b0e2e1573
 A Python 3.11 “gotcha”
 
 https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/
+
+# 2022-12-05
+CICERO: An AI agent that negotiates, persuades, and cooperates with people 
+
+https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/
+
+
+Visualizing Git Concepts with D3
+
+http://onlywei.github.io/explain-git-with-d3/?__s=hkjex28k3hzj1z1mm3xd#checkout
+
+Always use [closed, open) intervals
+
+https://fhur.me/posts/always-use-closed-open-intervals
+
+How the Guardian approaches quote extraction with NLP
+
+https://explosion.ai/blog/guardian
+
+Text-to-Image: Diffusion, Text Conditioning, Guidance, Latent Space
+
+https://eugeneyan.com/writing/text-to-image
+
+How To Reduce Coupling With Facade | Design Pattern Tutorial 
+
+https://www.youtube.com/watch?v=jjoLejA4iAE
+
+
