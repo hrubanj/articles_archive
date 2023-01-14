@@ -418,4 +418,89 @@ How To Reduce Coupling With Facade | Design Pattern Tutorial
 
 https://www.youtube.com/watch?v=jjoLejA4iAE
 
+# 2023-01-16
+8 Hard Truths I learned when I got laid off from my SWE job
+
+https://www.stevenbuccini.com/8-hard-truths-on-getting-laid-off
+
+Microfeatures I'd like to see in more languages
+
+https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/
+
+ChatGPT helped me design a brand new programming language
+
+https://judehunter.dev/blog/chatgpt-helped-me-design-a-brand-new-programming-language
+
+I/O is no longer the bottleneck
+
+https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/
+
+Autoencoders and Diffusers: A Brief Comparison
+
+https://eugeneyan.com/writing/autoencoders-vs-diffusers/?utm_source=convertkit&utm_medium=email&utm_campaign=Autoencoders+and+Diffusers%3A+A+Brief+Comparison%20-%209646326
+
+Narrative Manipulation: Convincing Chat GPT to Write a Python Program to Eradicate Humanity
+
+https://zacdenham.com/blog/narrative-manipulation-convincing-gpt-chat-to-write-a-python-program-to-eradicate-humanity
+
+Processing large JSON files in Python without running out of memory
+
+https://pythonspeed.com/articles/json-memory-streaming/
+
+7 Useful Python Libraries You Should Use in Your Next Project
+
+
+https://medium.com/geekculture/7-useful-python-libraries-you-should-use-in-your-next-project-538547811de6
+
+Effective Python Async like a PRO 🐍🔀
+
+https://guicommits.com/effective-python-async-like-a-pro/
+
+Running Python inside ChatGPT
+
+https://mathspp.com/blog/running-python-inside-chatgpt
+
+Boring Python: code quality
+
+https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/
+
+Maintain A Clean Architecture With Dependency Rules
+
+https://sourcery.ai/blog/dependency-rules/
+
+Building A Virtual Machine inside ChatGPT
+
+https://www.engraved.blog/building-a-virtual-machine-inside/
+
+Five Challenges to Building an Isomorphic JavaScript Library
+
+https://doordash.engineering/2022/12/06/five-challenges-to-building-an-isomorphic-javascript-library/
+
+The architecture of Mastodon
+
+https://softwaremill.com/the-architecture-of-mastodon/
+
+**The Illustrated  Machine Learning website**
+
+https://illustrated-machine-learning.github.io/index.html
+
+Lark - a parsing toolkit for Python
+
+https://github.com/lark-parser/lark
+
+Failed ML Project - How bad is the real estate market getting?
+
+https://www.datafantic.com/failed-project-how-bad-is-the-real-estate-market-getting/
+
+A First Look at PyScript: Python in the Web Browser
+
+https://realpython.com/pyscript-python-in-browser/
+
+Concurrency in Python with FastAPI
+
+https://horaceguy.pages.dev/posts/python-concurrency/
+
+
+
+
 
