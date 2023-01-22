@@ -500,6 +500,34 @@ Concurrency in Python with FastAPI
 
 https://horaceguy.pages.dev/posts/python-concurrency/
 
+# 2023-01-23
+13 ways to scrape any public data from any website
+
+https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9
+
+The Zen of Proverbs
+
+https://wagslane.dev/posts/zen-of-proverbs/
+
+Finally, a Fast Algorithm for Shortest Paths on Negative Graphs
+
+https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/
+
+How to improve Python packaging, or why fourteen tools are at least twelve too many
+
+https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/
+
+Bag od Tricks for Optimizing Machine Learning Pipelines
+
+https://mlops.community/optimizing-machine-learning-training-pipelines/
+
+Why I Like Nox
+
+https://hynek.me/articles/why-i-like-nox/
+
+Unison: A Friendly Programming Language from the Future Part 1 • Runar Bjarnason • YOW! 2021
+
+https://www.youtube.com/watch?v=Adu75GJ0w1o
 
 
 
