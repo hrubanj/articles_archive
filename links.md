@@ -529,6 +529,78 @@ Unison: A Friendly Programming Language from the Future Part 1 • Runar Bjarnas
 
 https://www.youtube.com/watch?v=Adu75GJ0w1o
 
+# 2023-01-30
+How to Use Hypothesis for Model-based Testing (Step by Step)
+
+https://www.youtube.com/watch?v=-S3BFkNn0rQ
+
+FUNCTIONAL PYTHON, PART I: TYPOPÆDIA PYTHONICA
+
+https://www.tweag.io/blog/2022-09-08-fp1-typopaedia-pythonica/
+
+Awesome Software and Architectural Design Patterns
+
+https://github.com/DovAmir/awesome-design-patterns
+
+How Does League Of Legends Deploy Machine Learning Models Into The Game?
+
+https://seattledataguy.substack.com/p/how-does-league-of-legends-deploy
+
+Unison: A Friendly Programming Language from the Future Part 2 • Runar Bjarnason • YOW! 2021
+
+https://www.youtube.com/watch?v=gy44CTCce0o
+
+Reactive Machine Learning & Functional Programming • Jeffrey Smith • YOW! 2015
+
+https://www.youtube.com/watch?v=WVYKFJTyinM
+
+Mechanisms for Effective Machine Learning Projects
+
+https://eugeneyan.com/writing/mechanisms-for-projects/
+
+Apple: the only Big Tech giant going against the job cuts tide
+
+https://newsletter.pragmaticengineer.com/p/apple-the-only-big-tech-giant-going
+
+How to Build a Flexible Customer Support Platform with Kotlin
+
+https://doordash.engineering/2023/01/24/how-to-build-a-flexible-customer-support-platform-with-kotlin/
+
+Why Polars uses less memory than Pandas
+
+https://pythonspeed.com/articles/polars-memory-pandas/
+
+Four tips for structuring your research group’s Python packages
+
+https://blog.nicholdav.info/four-tips-structuring-research-python/
+
+One a Day One Liners with Python — Week 3
+
+https://python.plainenglish.io/one-a-day-one-liners-with-python-week-3-d0a5c8229183
+
+Reverse Engineering a Neural Network's Clever Solution to Binary Addition
+
+https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/
+
+The Bitter Lesson
+
+http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+
+The Ultimate Guide To Software Architecture Documentation
+
+https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/
+
+Structurizr
+
+https://structurizr.com/dsl
+
+FUNCTIONAL PYTHON, PART II: DIAL M FOR MONOID
+
+https://www.tweag.io/blog/2023-01-19-fp2-dial-m-for-monoid/
+
+Airflow Sucks for MLOps
+
+https://home.mlops.community/public/videos/airflow-sucks-for-mlops
 
 
 
