@@ -602,5 +602,11 @@ Airflow Sucks for MLOps
 
 https://home.mlops.community/public/videos/airflow-sucks-for-mlops
 
+# 2023-02-06
+20 Things I’ve Learned in my 20 Years as a Software Engineer
 
+https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 
+Gooey
+
+https://github.com/chriskiehl/Gooey
