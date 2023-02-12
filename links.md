@@ -610,3 +610,45 @@ https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-
 Gooey
 
 https://github.com/chriskiehl/Gooey
+
+# 2023-02-13
+Advanced NLP with SpaCy
+
+https://course.spacy.io/en
+
+How to Use FastAPI: A Detailed Python Tutorial
+
+https://www.youtube.com/watch?v=SORiTsvnU28
+
+Investing in the Next Generation of AI & ML
+
+https://home.mlops.community/public/videos/investing-in-the-next-generation-of-ai-and-ml
+
+Building AI Trading Systems
+
+https://dennybritz.com/posts/building-ai-trading-systems/
+
+Predicting Stock Prices Using Machine Learning
+
+https://neptune.ai/blog/predicting-stock-prices-using-machine-learning
+
+Google’s New AI: The Age of AI-Made Movies Is Here!
+
+https://www.youtube.com/watch?v=mFzgTcTpqtI
+
+13 tips and techniques for modern Flask apps
+
+https://pgjones.dev/blog/modern-flask-2023/
+
+Getting started with semantic workflows
+
+https://medium.com/neuml/getting-started-with-semantic-workflows-2fefda6165d9
+
+How to Securely Deploy a FastAPI app with NGINX and Gunicorn
+
+https://dylancastillo.co/fastapi-nginx-gunicorn/
+
+Octosuite: A New Tool to Conduct Open Source Investigations on GitHub
+
+https://www.bellingcat.com/resources/2023/01/20/octosuite-a-new-tool-to-conduct-open-source-investigations-on-github/
+
