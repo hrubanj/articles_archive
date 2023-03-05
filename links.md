@@ -652,3 +652,96 @@ Octosuite: A New Tool to Conduct Open Source Investigations on GitHub
 
 https://www.bellingcat.com/resources/2023/01/20/octosuite-a-new-tool-to-conduct-open-source-investigations-on-github/
 
+# 2023-03-06
+Data Classification
+
+https://blog.glyph.im/2023/02/data-classification.html
+
+Retrospectives Antipatterns
+
+https://martinfowler.com/articles/retrospective-antipatterns.html
+
+The 25 Percent Rule for Tackling Technical Debt
+
+https://shopify.engineering/technical-debt-25-percent-rule
+
+Writing Javascript without a build system
+
+https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/
+
+Lifecycle of a Successful ML Product: Reducing Dasher Wait Times
+
+https://doordash.engineering/2023/02/15/lifecycle-of-a-successful-ml-product-reducing-dasher-wait-times/
+
+Content Moderation - Patterns in Industry
+
+https://eugeneyan.com/writing/content-moderation/
+
+Paper Notes: Amazon Aurora – Design Considerations for High Throughput Cloud-Native Relational Databases
+
+https://distributed-computing-musings.com/2023/02/paper-notes-amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases/
+
+The Heisenbug lurking in your async code
+
+https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/
+
+**ResearchGPT**
+
+https://github.com/mukulpatnaik/researchgpt
+
+Writing an engineering strategy.
+
+https://lethain.com/eng-strategies/
+
+Choose Boring Technology
+
+https://mcfunley.com/choose-boring-technology
+
+PolyglotPersistence
+
+https://martinfowler.com/bliki/PolyglotPersistence.html
+
+A New Way to Predict Probability Distributions
+
+https://towardsdatascience.com/a-new-way-to-predict-probability-distributions-e7258349f464
+
+A Practical Guide to fzf: Shell Integration
+
+https://thevaluable.dev/fzf-shell-integration/
+
+Learning to Trade with Reinforcement Learning
+
+https://dennybritz.com/posts/wildml/learning-to-trade-with-reinforcement-learning/
+
+Building Monocle, a universal personal search engine for life
+
+https://thesephist.com/posts/monocle/
+
+"Clean" Code, Horrible Performance
+
+https://www.computerenhance.com/p/clean-code-horrible-performance
+
+Effect ful computations with Fibers - MATTIA MANZATI
+
+https://www.youtube.com/watch?v=uwALExyq4NY
+
+Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch
+
+https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html
+
+Using Neural Networks to Find Answers in Tables
+
+https://ai.googleblog.com/2020/04/using-neural-networks-to-find-answers.html
+
+PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization
+
+https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html
+
+React.js: The Documentary
+
+https://www.youtube.com/watch?v=8pDqJVdNa44&t=7s
+
+Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence
+
+https://arxiv.org/pdf/2301.12633.pdf
+
