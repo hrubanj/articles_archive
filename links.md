@@ -745,3 +745,31 @@ Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical E
 
 https://arxiv.org/pdf/2301.12633.pdf
 
+# 2023-03-12
+
+GRASP Design Principles: Why They Matter (And How to Use Them)
+
+https://www.youtube.com/watch?v=fGNF6wuD-fg
+
+# 2023-04-03
+Tiktok's enshittification
+
+https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys
+
+Hello there, AI gold rush
+
+https://thehustle.co/03172023-AI-startup-valuations/
+
+Professor Frisby's Mostly Adequate Guide to Functional Programming
+
+https://github.com/MostlyAdequate/mostly-adequate-guide
+
+The State monad
+
+https://paulgray.net/the-state-monad/
+
+The spelled-out intro to neural networks and backpropagation: building micrograd
+
+https://www.youtube.com/watch?v=VMj-3S1tku0
+
+
