@@ -772,4 +772,188 @@ The spelled-out intro to neural networks and backpropagation: building micrograd
 
 https://www.youtube.com/watch?v=VMj-3S1tku0
 
+# 2023-04-10
+OpenAI’s GPT-4 Just Got Supercharged!
 
+https://www.youtube.com/watch?v=Fjh1kwOzr7c
+
+BloombergGPT: A Large Language Model for Finance
+
+https://arxiv.org/pdf/2303.17564.pdf
+
+Building a Bloom filter
+
+https://luminousmen.com/post/building-a-bloom-filter
+
+ChatGPT Clone – OpenAI API and React Tutorial
+
+https://www.youtube.com/watch?v=98bGwOYoEGg
+
+PyTorch, Gradient Accumulation, and the dreaded drop in speed
+
+https://muellerzr.github.io/blog/gradient_accumulation.html
+
+**Socio-Technical Anti-Patterns in Building ML-Enabled Software**
+
+https://sws.informatik.uni-leipzig.de/wp-content/uploads/2023/01/socio-technical-anti-patterns-icse2023.pdf
+
+Brave Search now comes with an AI-powered summary feature
+
+https://www.siliconrepublic.com/machines/brave-search-ai-summarizer-browser-chatgpt
+
+After the buzz fades: What our data tells us about emerging technology sentiment
+
+https://stackoverflow.blog/2023/03/09/after-the-buzz-fades-what-our-data-tells-us-about-emerging-technology-sentiment/
+
+Hyperopt: Distributed Asynchronous Hyper-parameter Optimization
+
+https://hyperopt.github.io/hyperopt/
+
+Intel unveils Quantum Software Development Kit Version 1.0
+
+https://www.developer-tech.com/news/2023/mar/02/intel-unveils-quantum-software-development-kit-version-1-0/
+
+Unlocking Real-time Predictions with Shopify's Machine Learning Platform
+
+https://shopify.engineering/shopifys-machine-learning-platform-real-time-predictions
+
+PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever
+
+https://pytorch.org/blog/pytorch-2.0-release/
+
+SymPy
+
+https://www.sympy.org/en/index.html
+
+Pulp
+
+https://github.com/coin-or/pulp
+
+Hands-On Linear Programming: Optimization With Python
+
+https://realpython.com/linear-programming-python/
+
+A Beginner's Guide to Prompt Engineering with GitHub Copilot
+
+https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp
+
+Fun with Vector Databases
+
+https://garybake.com/vector_databases.html
+
+**typst**
+
+https://github.com/typst/typst
+
+Build a Maze Solver in Python Using Graphs
+
+https://realpython.com/python-maze-solver/
+
+Are those numbers realistic or fake? Try using Benford's Law
+
+https://www.softwarepragmatism.com/benfords-law
+
+Failure Mitigation for Microservices: An Intro to Aperture
+
+https://doordash.engineering/2023/03/14/failure-mitigation-for-microservices-an-intro-to-aperture/
+
+MLOps is 98% Data Engineering
+
+https://mlops.community/mlops-is-mostly-data-engineering/
+
+What’s being built on Web3?
+
+https://brave.com/web3/built-on-web3/
+
+How to Evaluate the Quality of Python Packages
+
+https://realpython.com/python-package-quality/
+
+How Shapley Values Work
+
+https://www.aidancooper.co.uk/how-shapley-values-work/
+
+Apache Superset
+
+https://superset.apache.org/
+
+Lazy recursion, with generators
+
+https://tushar.lol/post/recursive-generators/
+
+This Time It's Different - ChatGPT
+
+https://seattledataguy.substack.com/p/this-time-its-different-chatgpt
+
+How to Speed up Local Development of a Docker Application running on AWS
+
+https://doordash.engineering/2023/03/07/how-to-speed-up-local-development-of-a-docker-application-running-on-aws/
+
+Limiting concurrency in Python asyncio: the story of async imap_unordered()
+
+https://death.andgravity.com/limit-concurrency
+
+Speeding up text processing in Python (is hard)
+
+https://pythonspeed.com/articles/faster-text-processing/
+
+**mypyc**
+
+https://mypyc.readthedocs.io/en/latest/
+
+What I Don't Want To See In The Data World In 5 Years
+
+https://seattledataguy.substack.com/p/what-i-dont-want-to-see-in-the-data
+
+A Crash Course in Caching - Part 1
+
+https://blog.bytebytego.com/p/a-crash-course-in-caching-part-1
+
+Now You Have Three Problems
+
+https://github.com/dabeaz/blog/blob/main/2023/three-problems.md
+
+Lessons Learned Building Products Powered by Generative AI
+
+https://tech.buzzfeed.com/lessons-learned-building-products-powered-by-generative-ai-7f6c23bff376
+
+Deep Neural Nets: 33 years ago and 33 years from now
+
+https://karpathy.github.io/2022/03/14/lecun1989/
+
+EP 51: How does DNS work?
+
+https://blog.bytebytego.com/p/ep-51-how-does-dns-work
+
+Cache Systems Every Developer Should Know
+
+https://blog.bytebytego.com/p/ep54-cache-systems-every-developer
+
+EP50: Visualizing a SQL Query
+
+https://blog.bytebytego.com/p/ep50-visualizing-a-sql-query
+
+Building makemore Part 2: MLP
+
+https://www.youtube.com/watch?v=TCH_1BHY58I
+
+How to use Mypyc to speed up Python
+
+https://www.youtube.com/watch?v=cG-mI2b177E
+
+Language Is Not All You Need: Aligning Perception
+with Language Models
+
+https://arxiv.org/pdf/2302.14045.pdf
+
+**Language Models Can Teach Themselves to Program Better**
+
+https://arxiv.org/pdf/2207.14502.pdf
+
+Training Compute-Optimal Large Language Models
+
+https://arxiv.org/pdf/2203.15556.pdf
+
+OpenAI's GPT-4: A Spark Of Intelligence!
+
+https://www.youtube.com/watch?v=wHiOKDlA8Ac
