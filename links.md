@@ -957,3 +957,20 @@ https://arxiv.org/pdf/2203.15556.pdf
 OpenAI's GPT-4: A Spark Of Intelligence!
 
 https://www.youtube.com/watch?v=wHiOKDlA8Ac
+
+# 2023-04-17
+Łukasz Langa - Use typing to speed up your apps with mypyc
+
+https://www.youtube.com/watch?v=kFKRbo9tFNw
+
+NVIDIA’s New AI: Better Games Are Coming!
+
+https://www.youtube.com/watch?v=bQE5CPxlBz0
+
+Building makemore Part 3: Activations & Gradients, BatchNorm
+
+https://www.youtube.com/watch?v=P6sfmUTpUmc
+
+BOLT: How This Estonian Startup Beat Uber At Its Own Game
+
+https://www.forbes.com/video/6324304760112/bolt-how-this-estonian-startup-beat-uber-at-its-own-game/
