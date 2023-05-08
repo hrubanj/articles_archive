@@ -974,3 +974,74 @@ https://www.youtube.com/watch?v=P6sfmUTpUmc
 BOLT: How This Estonian Startup Beat Uber At Its Own Game
 
 https://www.forbes.com/video/6324304760112/bolt-how-this-estonian-startup-beat-uber-at-its-own-game/
+
+# 2023-05-08
+Product Launch 2023 Keynote (Modular)
+
+https://www.youtube.com/watch?v=-3Kf2ZZU-dg
+
+Even Amazon can't make sense of serverless or microservices
+
+https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580
+
+I built a chatbot that lets you talk to any Github repository
+
+https://www.reddit.com/r/MachineLearning/comments/129sqba/p_i_built_a_chatbot_that_lets_you_talk_to_any/
+
+DoorDash identifies Five big areas for using Generative AI
+
+https://doordash.engineering/2023/04/26/doordash-identifies-five-big-areas-for-using-generative-ai/
+
+Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode
+
+https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/
+
+There Is No A.I.
+
+https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai
+
+Finetuning Large Language Models: An introduction to the core ideas and approaches
+
+https://magazine.sebastianraschka.com/p/finetuning-large-language-models
+
+Algebraic Data Types in (typed) Python
+
+https://threeofwands.com/algebraic-data-types-in-python/
+
+Featureform
+
+https://www.featureform.com/product
+
+**Understanding Large Language Models**
+
+https://magazine.sebastianraschka.com/p/understanding-large-language-models
+
+Building LLM applications for production
+
+https://huyenchip.com/2023/04/11/llm-engineering.html
+
+‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead
+
+https://dnyuz.com/2023/05/01/the-godfather-of-a-i-leaves-google-and-warns-of-danger-ahead/
+
+WHAT EVERY DEVELOPER SHOULD KNOW ABOUT AWS VAULT
+
+https://blog.symops.com/2023/04/20/aws-vault/
+
+Data Engineering Vs Machine Learning Pipelines: What's the difference?
+
+https://seattledataguy.substack.com/p/data-engineering-vs-machine-learning
+
+Becoming a Data Engineering Force Multiplier
+
+https://seattledataguy.substack.com/p/becoming-a-data-engineering-force
+
+Factors to Consider in Database Selection
+
+https://blog.bytebytego.com/p/factors-to-consider-in-database-selection
+
+"Scaling Laws" for AI And Some Implications
+
+https://sarahconstantin.substack.com/p/scaling-laws-for-ai-and-some-implications
+
+
