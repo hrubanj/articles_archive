@@ -1044,4 +1044,32 @@ https://blog.bytebytego.com/p/factors-to-consider-in-database-selection
 
 https://sarahconstantin.substack.com/p/scaling-laws-for-ai-and-some-implications
 
+# 2023-05-15
+Mojo🔥 programming manual
+
+https://docs.modular.com/mojo/programming-manual.html
+
+Mojo may be the biggest programming language advance in decades
+
+https://www.fast.ai/posts/2023-05-03-mojo-launch.html
+
+Swift
+
+https://www.swift.org/about/
+
+HuggingChat
+
+https://huggingface.co/chat/
+
+Dolt 1.0
+
+https://www.dolthub.com/blog/2023-05-05-dolt-1-dot-0/
+
+Open LLMs
+
+https://github.com/eugeneyan/open-llms
+
+syntactic sugar
+
+https://snarky.ca/tag/syntactic-sugar/
 
