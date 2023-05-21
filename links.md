@@ -1073,3 +1073,34 @@ syntactic sugar
 
 https://snarky.ca/tag/syntactic-sugar/
 
+# 2023-05-22
+Bard API
+
+https://github.com/dsdanielpark/Bard-API
+
+Real Multithreading is Coming to Python - Learn How You Can Use It Now
+
+https://martinheinz.dev/blog/97
+
+Stop using utcnow and utcfromtimestamp
+
+https://blog.ganssle.io/articles/2019/11/utcnow.html
+
+pytz: The Fastest Footgun in the West
+
+https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html
+
+How to recover from microservices
+
+https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc
+
+Why engineers need to be bored.
+
+https://onengineering.substack.com/p/why-engineers-need-to-be-bored
+
+GitHub code search is generally available
+
+https://github.blog/2023-05-08-github-code-search-is-generally-available/
+
+
+
