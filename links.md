@@ -1102,5 +1102,31 @@ GitHub code search is generally available
 
 https://github.blog/2023-05-08-github-code-search-is-generally-available/
 
+# 2023-06-12
+Maker's Schedule, Managers Schedule
 
+http://www.paulgraham.com/makersschedule.html
 
+Unleashing Your Potential: 5 Strategies to Identify Breakout Leadership Opportunities in Tech
+
+https://doordash.engineering/2023/05/23/unleashing-your-potential-5-strategies-to-identify-breakout-leadership-opportunities-in-tech/
+
+StarCoder: A State-of-the-Art LLM for Code
+
+https://huggingface.co/blog/starcoder
+
+Learning Physically Simulated Tennis Skills from Broadcast Videos
+
+https://research.nvidia.com/labs/toronto-ai/vid2player3d/
+
+What is a Vector Database?
+
+https://www.pinecone.io/learn/vector-database/
+
+You probably don't know how to do Prompt Engineering
+
+https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf
+
+⚡ 5 Horrifying Python Techniques to get you fired - Andrew L
+
+https://www.youtube.com/watch?v=t863QfAOmlY
