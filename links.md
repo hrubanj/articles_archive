@@ -1130,3 +1130,38 @@ https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf
 ⚡ 5 Horrifying Python Techniques to get you fired - Andrew L
 
 https://www.youtube.com/watch?v=t863QfAOmlY
+
+# 2023-07-03
+
+GPT Engineer: Things Are Starting to Get Weird
+
+https://www.youtube.com/watch?v=FPZONhA0C60
+
+AI21 Labs concludes largest Turing Test experiment to date
+
+https://www.ai21.com/blog/human-or-not-results
+
+We Can Do Better Than SQL
+
+https://www.edgedb.com/blog/we-can-do-better-than-sql#lack-of-orthogonality
+
+Secret To Optimizing SQL Queries - Understand The SQL Execution Order
+
+https://www.youtube.com/watch?v=BHwzDmr6d7s
+
+Should you optimize for all-cash compensation, if possible?
+
+https://newsletter.pragmaticengineer.com/p/should-you-optimize-for-all-cash
+
+How we tried to book a train ticket and ended up with a databreach with 245,000 records
+
+https://zerforschung.org/posts/freundschaftspass-en/
+
+Migrating Netflix to GraphQL Safely
+
+https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72
+
+pdoc
+
+https://github.com/mitmproxy/pdoc
+
