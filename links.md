@@ -1165,3 +1165,77 @@ pdoc
 
 https://github.com/mitmproxy/pdoc
 
+# 2023-07-31
+Apache® Druid
+
+https://druid.apache.org/
+
+Clickhouse
+
+https://clickhouse.com/
+
+awesome-quantum-software
+
+https://github.com/qosf/awesome-quantum-software
+
+Falsehoods Programmers Believe About Quantum Technology
+
+https://github.com/gottfriedsz/falsehoods-quantum
+
+MongoDB Is Great For Analytics; Until It's Not
+
+https://seattledataguy.substack.com/p/mongodb-is-great-for-analytics-until
+
+Extended Guide: Instruction-tune Llama 2
+
+https://www.philschmid.de/instruction-tune-llama-2
+
+Why Did So Many Startups Choose MongoDB?
+
+https://nemil.com/2017/07/06/why-did-so-many-startups-choose-mongodb
+
+Rockset
+
+https://rockset.com/
+
+EP66: Comparison of URL, URI, and URN
+
+https://blog.bytebytego.com/p/ep66-comparison-of-url-uri-and-urn
+
+EP63: Linux file system explained
+
+https://blog.bytebytego.com/p/ep63-linux-file-system-explained
+
+Network Protocols Run the Internet
+
+https://blog.bytebytego.com/p/network-protocols-run-the-internet
+
+Everything You Always Wanted to Know About TCP But Too Afraid to Ask
+
+https://blog.bytebytego.com/p/everything-you-always-wanted-to-know
+
+EdgeDB
+
+https://www.edgedb.com/
+
+The New Language Model Stack
+
+https://www.sequoiacap.com/article/llm-stack-perspective/
+
+Imaginary Problems Are the Root of Bad Software
+
+https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software
+
+Writing Python like it's Rust
+
+https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
+
+Build a poor man’s data lake from scratch with DuckDB
+
+https://dagster.io/blog/duckdb-data-lake
+
+AlphaDev discovers faster sorting algorithms
+
+https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms
+
+
